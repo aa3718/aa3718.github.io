@@ -13,9 +13,25 @@ body {
     max-width: 1200px;
 }
 
+.code {
+    text-align: left;
+    color:goldenrod;
+}
+
+.scroll-container {
+    background-color:rgb(91, 49, 18);
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+  
+.scroll-container img {
+    padding: 10px;
+}
+
 /* Header */
 header {
-    background-color: #333;
+    background-color:#63b175;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -36,6 +52,7 @@ header nav ul {
     margin: 0;
     display: flex;
     justify-content: center;
+    margin-top: 25px;
 }
 
 header nav ul li {
