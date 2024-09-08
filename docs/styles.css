@@ -18,17 +18,6 @@ body {
     color:goldenrod;
 }
 
-.scroll-container {
-    background-color:rgb(91, 49, 18);
-    overflow: auto;
-    white-space: nowrap;
-    padding: 10px;
-}
-  
-.scroll-container img {
-    padding: 10px;
-}
-
 /* Header */
 header {
     background-color:#63b175;
